@@ -7,5 +7,13 @@
   "scripts": {
     "test": "jest"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstut001/template-lab-js-unit-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jstut001/template-lab-js-unit-testing/issues"
+  },
+  "homepage": "https://github.com/jstut001/template-lab-js-unit-testing#readme"
 }
