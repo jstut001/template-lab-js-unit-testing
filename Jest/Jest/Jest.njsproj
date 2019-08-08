@@ -31,6 +31,9 @@
     <Content Include="..\..\.travis.yml">
       <Link>.travis.yml</Link>
     </Content>
+    <Content Include="..\..\rakefile.rb">
+      <Link>rakefile.rb</Link>
+    </Content>
     <Content Include="introduction.js" />
     <Content Include="introduction.test.js">
       <SubType>Code</SubType>
