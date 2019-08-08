@@ -2,8 +2,10 @@
   "name": "jest",
   "version": "0.0.0",
   "description": "Jest",
-  "main": "app.js",
-  "author": {
-    "name": ""
-  }
+  "main": "introduction.js",
+  "author": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC"
 }
